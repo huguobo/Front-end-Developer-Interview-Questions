@@ -60,7 +60,7 @@
 * 请写一个简单的幻灯效果页面。
 
 ```
-settimeout setInterval~~~
+setInterval clearInterval opcity and filter:alpha ~~~
 ```
 
 * 如果今年你打算熟练掌握一项新技术，那会是什么？
@@ -81,6 +81,7 @@ settimeout setInterval~~~
 ```
 语义化？
 ```
+
 * 请解释 CSS 动画和 JavaScript 动画的优缺点。
 
 答案：
